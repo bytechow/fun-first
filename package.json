@@ -1,0 +1,16 @@
+{
+  "name": "fun-first",
+  "version": "0.0.1",
+  "description": "fun first in learning",
+  "main": "index.js",
+  "repository": "https://github.com/bytechow/fun-first.git",
+  "author": "bytez <bytechow@foxmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs"
+  },
+  "dependencies": {
+    "vuepress": "1.x"
+  }
+}
